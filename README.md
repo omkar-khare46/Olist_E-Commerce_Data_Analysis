@@ -42,10 +42,10 @@ Full reasoning, quantified impact, and tracking metrics for each recommendation 
 
 ## Dashboard Preview
 
-!\[Sales \& Order Overview](dashboards/screenshots/Olist_Sales_Analysis_Dashboard.png)
+![Sales Dashboard](dashboards/screenshots/Olist_Sales_Analysis_Dashboard.png)
 *Revenue, order volume, monthly trend, and top categories/cities by sales.*
 
-!\[Delivery \& Review Analysis](dashboards/screenshots/Olist_Customer_Analysis_Dashboard.png)
+![Customer Dashboard](dashboards/screenshots/Olist_Customer_Analysis_Dashboard.png)
 *Review score vs. delivery status, payment method breakdown, and a geographic view of late deliveries across Brazil.*
 
 ## Repo Structure
